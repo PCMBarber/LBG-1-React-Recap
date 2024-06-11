@@ -30,7 +30,7 @@ function App() {
   return (
     <Router>
       <nav>
-        <Link to='/add'>KJGIYFDLUKOTDKYJHTGFC</Link>
+        <Link to='/add'>Add</Link>
         <Link to='/get'>View Pets</Link>
       </nav>
       <Routes>
